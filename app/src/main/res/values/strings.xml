@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson6_2</string>
+    <string name="enterIsGood">Вход успешно выполнен!</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="phone">phone</string>
+    <string name="enter">enter</string>
+</resources>
